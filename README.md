@@ -30,3 +30,6 @@ This version does it without a long list of if/elif/elses - uses only lists.</p>
 <h2>Day 4: 6/14/2024</h2>
 <h4>Project:  Implement Sheldon's Rock, Paper, Scissors Lizard, Spock Game - better version</h4>
 Name: Sheldon Game RPSLS</p>
+This not only implements Sheldon's version of Rock, Paper, Scissors but gives a total of how many wins, losses and ties you have.</p>
+This version does it without a long list of if/elif/elses - uses only lists.</p>
+The game is now finished.  https://github.com/MarkisGardner/SheldonsGame-Better</p>
