@@ -44,3 +44,9 @@ But, I am a teacher by trade so I am explaining all the steps step by step.  A v
 Lets say I want to multiply 9 by 20/6.  Of course the answer is 30.  But, what I am doing is explaining that first you want to reduce the 20/6 by finding the greatest common factor of 20 and 6.
 That of course is 2.  So, we get 10/3 when we divide both 20 and 6 by 2.  So, now we have 9 * 10/3.  Next we see that 3 is the greatest common factor between 9 and 3.  So we can divide them both by 3.  So, we get 3 * 10/1.  Which of course is 30.</p>
 
+<h2>Day 5: 6/15/2024</h2>
+<h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
+Name: TeachFractions</p>
+Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
+This can be a valuable teaching tool for students.</p>
+Today I finished a lot more work for multiplying I have finished integer times any fraction.  I now need to do first number is a fraction, then clean up the code.  I expect I will finish in two days.
