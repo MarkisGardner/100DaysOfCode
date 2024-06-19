@@ -57,3 +57,10 @@ Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
 This can be a valuable teaching tool for students.</p>
 I took 2 days off.  1 for father's day and the other because I was not feeling well.  Today I finished multiplication part and did multiplying the fraction a different way than the first part where it was integer times a fraction.  It is better.  I am not going to change the first part.  I will however, clean up the output and do some more testing.  Example:  I am sure that I will get an answer like 5 0/3.  Instead of 5.  So, need to clean it up plus take out all my debugging statements.  Then I can work on addition and subtraction.</p>
+
+<h2>Day 7: 6/19/2024</h2>
+<h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
+Name: TeachFractions</p>
+Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
+This can be a valuable teaching tool for students.</p>
+Today I started on the addition and subtraction part of this fraction part.  One of the things I wanted students to realize is that the addition problem 2 + -3 is the same as the subtraction problem 2 - 3.  Similarly the subtraction problem -2 - 3 is the same as the addition problem -2 + (-3).  So, I am working on making sure the student can figure out how to do these problems step by step.  Hoping to finish this tomorrow.
