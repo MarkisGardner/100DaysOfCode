@@ -64,3 +64,10 @@ Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
 This can be a valuable teaching tool for students.</p>
 Today I started on the addition and subtraction part of this fraction part.  One of the things I wanted students to realize is that the addition problem 2 + -3 is the same as the subtraction problem 2 - 3.  Similarly the subtraction problem -2 - 3 is the same as the addition problem -2 + (-3).  So, I am working on making sure the student can figure out how to do these problems step by step.  Hoping to finish this tomorrow.
+
+<h2>Day 8: 6/20/2024</h2>
+<h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
+Name: TeachFractions</p>
+Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
+This can be a valuable teaching tool for students.</p>
+Today worried about how to teach adding/subtracting of fractions.  For example:  When I add 2 1/3 and 3 1/2 I put everything in mixed numbers then add.  But, I decided against that.  Also teaching computers how to add negative fractions like -2 1/2 + 3 seems simple but if you break it apart you might be tempted to do -2 + 1/2 + 3 but it is -2 - 1/2 +3.  So, I have to worry about that since I am breaking things into tokens.
