@@ -71,3 +71,10 @@ Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
 This can be a valuable teaching tool for students.</p>
 Today worried about how to teach adding/subtracting of fractions.  For example:  When I add 2 1/3 and 3 1/2 I put everything in mixed numbers then add.  But, I decided against that.  Also teaching computers how to add negative fractions like -2 1/2 + 3 seems simple but if you break it apart you might be tempted to do -2 + 1/2 + 3 but it is -2 - 1/2 +3.  So, I have to worry about that since I am breaking things into tokens.
+
+<h2>Day 9: 6/22/2024</h2>
+<h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
+Name: TeachFractions</p>
+Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
+This can be a valuable teaching tool for students.</p>
+I finished up adding two fractions as long as both were positive or both were negative.  
