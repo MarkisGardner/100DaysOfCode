@@ -105,8 +105,9 @@ Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
 I cleaned up multiplication and division.
 
-<h2>Day 13: 7/22/2024</h2>
+<h2>Day 13: 7/1/2024</h2>
 <h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
 Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
 I cleaned up multiplication and division.
+Finished my fraction project.
