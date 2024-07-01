@@ -111,3 +111,12 @@ Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
 I cleaned up multiplication and division.
 Finished my fraction project.
+
+<h2>Day 14: 7/1/2024</h2>
+<h4>Project:  Hangman - Day 1</h4> 
+<h4>Project:  Stock - Day 1</h4> 
+Name:  Animal Hangman</p>
+Name:  Day Trading</p>
+Notes:  Because Stock is such a big project I want to work on another project at the same time.</p>
+For Animal Hangman I want to try using google sheets as a database.  I never used it before.
+I have setup MongoDB for the Stock Project.
