@@ -79,27 +79,33 @@ Notes:  This doesn't just do the computations but explains how to do it as if it
 This can be a valuable teaching tool for students.</p>
 I finished up adding two fractions as long as both were positive or both were negative.  
 
-<h2>Day 10: 6/22/2024</h2>
+<h2>Day 10: 6/24/2024</h2>
 <h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
 Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
 This can be a valuable teaching tool for students.</p>
 I finished up subtracting two fractions as long as they ended up adding to each other:  Example:  a - -b or -a - b
 
-<h2>Day 11: 6/22/2024</h2>
+<h2>Day 11: 6/27/2024</h2>
 <h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
 Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
 This can be a valuable teaching tool for students.</p>
 Today I got rid of a lot of errors and comments to the screen to let me know what each variable had.  Almost done.
 
-<h2>Day 11: 6/22/2024</h2>
+<h2>Day 11: 6/28/2024</h2>
 <h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
 Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
 I finished subtracting - now I only need to clean up the code and add more explanations.
 
-<h2>Day 12: 6/22/2024</h2>
+<h2>Day 12: 6/30/2024</h2>
+<h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
+Name: TeachFractions</p>
+Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
+I cleaned up multiplication and division.
+
+<h2>Day 13: 7/22/2024</h2>
 <h4>Project:  Teach adding, subtracting, multiplying and dividing of fractions.</h4> 
 Name: TeachFractions</p>
 Notes:  This doesn't just do the computations but explains how to do it as if it is teaching a student.</p>
