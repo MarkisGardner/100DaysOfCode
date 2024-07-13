@@ -120,3 +120,21 @@ For Animal Hangman I want to try using google sheets as a database.  I never use
 <h4>Project:  Stock - Day 1</h4> 
 Name:  Day Trading</p>
 I have setup MongoDB for the Stock Project.
+
+<h2>Day 15: 7/12/2024</h2>
+Notes:  Been sick plus spending a lot of time trying to find a job.
+<h4>Project:  Hangman - Day 2</h4> 
+Name:  Animal Hangman</p>
+For Animal Hangman I want to try using google sheets as a database.  I never used it before.  But, will start with a CSV file </p>
+I learned how to create stick figures and read data from a csv file.</p>
+I finished it.  I am quite happy with it.</p>
+
+<h2>Day 16: 7/13/2024</h2>
+<h4>Project:  Hangman - Day 3</h4> 
+Name:  Animal Hangman</p>
+Created executable for Animal Hangman.  I could not get pyInstaller to include the text file with the list of animals so I added it seperately and put into a zip file</p>
+You can try it here: https://drive.google.com/file/d/1EPtqXjOXp1p7D5CFd-Nt1H93oKRzOGT9/view?usp=drive_link</p>
+![c96e2a46056721f1ddc5e68b7dc686f](https://github.com/user-attachments/assets/1b272685-58a6-4392-880e-a3eb4818bd87)
+<h4>Project:  Stock - Day 2</h4> 
+Name:  Day Trading</p>
+I learned how to write to a database on MongoDB and access yahoo finance.  I setup a table of around 6000+ stock tickers.  Then adding a table with last price of each of those.  </p>
