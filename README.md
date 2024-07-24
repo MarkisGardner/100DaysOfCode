@@ -138,3 +138,11 @@ You can try it here: https://drive.google.com/file/d/1EPtqXjOXp1p7D5CFd-Nt1H93oK
 <h4>Project:  Stock - Day 2</h4> 
 Name:  Day Trading</p>
 I learned how to write to a database on MongoDB and access yahoo finance.  I setup a table of around 6000+ stock tickers.  Then adding a table with last price of each of those.  </p>
+
+<h2>Day 17: 7/24/2024</h2>
+<h3>Learning:  Improving my knowledge of Classes</h3>
+Classes have been my weak point.  I will continue to learn more and practice more classes.
+<h3>Testing:  Signed up to CodeWars, LeetCode and HackerRank</h3>
+HackerRank: Got the Basic Python Certification - my username is iwant12kids</p>
+leetcode: my username is SpaceAlien</p>
+CodeWars: My username is MarkisLandis</p>
